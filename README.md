@@ -4,7 +4,9 @@
 
 ## Tutorial 1: Microsoft Azure
 
+
 Throughout the whole process of completing this tutorial, I’ve encountered many kinds of errors in order to successfully complete the tutorial. This experience allows me to learn and gain many kinds of knowledge about data pipelines. Moreover, this tutorial allows me to explore a lot of Microsoft Azure stack services in building pipelines for data visualisation. Besides, I’ve also learnt how each different Azure services used different syntax, and how the syntax connects all tables into one schema after importing it in Microsoft Power BI for the data visualisation. Not to mention that this experience allows me to use Microsoft Power BI for the development of the data visualisation. The experience of using Microsoft Power BI almost the same as using Tableau.   
+
 ---
 ## Tutorial 2: Apache Spark
 
